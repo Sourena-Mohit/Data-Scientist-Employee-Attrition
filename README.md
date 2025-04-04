@@ -1,7 +1,7 @@
 # Data Scientist Employee Attrition - Job Change of Data Scientists
 
 **Author:** Sourena Mohit  
-**Project from:** MIT IDSS
+**Project from:** MIT Professional Education
 
 ## Problem Statement
 
